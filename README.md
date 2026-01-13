@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Ejecuta la aplicación:
 
-streamlit run mosaico.py
+streamlit run mosaicos.py
 
 
 🌐 Despliegue en Streamlit Cloud
