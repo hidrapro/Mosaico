@@ -1,0 +1,15 @@
+streamlit
+pystac-client
+planetary-computer
+stackstac
+rioxarray
+folium
+streamlit-folium
+numpy
+pandas
+rasterio
+Pillow
+dask
+xarray
+pyproj
+shapely
